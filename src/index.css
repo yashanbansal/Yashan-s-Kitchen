@@ -250,13 +250,13 @@ html {
 
 @media (max-width: 998px) {
   .heading {
-    font-size: 1.8rem;
+    font-size: 3.4rem;
   }
 }
 @media (max-width: 998px) {
   .headingimg {
-    height: 4rem;
-    width: 4rem;
+    height: 7.5rem;
+    width: 7.5rem;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5rem;
