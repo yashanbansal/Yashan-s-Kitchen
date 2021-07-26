@@ -247,3 +247,19 @@ html {
             -webkit-text-fill-color: transparent;
             -webkit-background-clip: text;
 }
+
+@media (max-width: 998px) {
+  .heading {
+    font-size: 1.8rem;
+  }
+}
+@media (max-width: 998px) {
+  .headingimg {
+    height: 4rem;
+    width: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    margin-bottom: 7rem;
+  }
+}
