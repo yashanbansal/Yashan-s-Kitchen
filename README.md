@@ -1,3 +1,3 @@
 # Yashan-s-Kitchen
 
-https://yashankitchen.netlify.app/
+https://yashanskitchen.herokuapp.com/
